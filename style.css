@@ -1,0 +1,363 @@
+body{
+    margin: 0px;
+    font-size: 18px;
+    font-family: Open Sans;
+}
+
+
+.header{
+    background-image: url("images/bg-hero-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-color: hsl(193, 100%, 96%);
+    padding: 20px;
+}
+
+
+.top{
+    display: inline;
+    padding: 10px;
+}
+
+.try{
+    display: inline;
+    float: right;
+    padding-right: 10px;
+
+}
+
+.logo{
+    width: 10%;
+    height: 4%;
+}
+
+.top_button{
+    width: 130px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    border-style: none;
+    height: 30px;
+    
+}
+
+
+.build{
+    position: absolute;
+    top: 190px;
+    left: 150px;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Poppins;
+    font-weight: 600;
+
+}
+
+p{
+    color: cadetblue;
+}
+
+.cta_buttons{
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-style: none;
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+
+.mock_up{
+    display: inline;
+    float: right;
+    position: absolute;
+    top: 80px;
+    right: 120px;
+}
+
+.mock-up{
+    width: 65%;
+    height: 65%;
+    float: right;
+}
+
+
+.grow_first{
+    width: 65%;
+    align-items: center;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    position: absolute;
+    top: 700px;
+    left: 280px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.grow{
+    position: absolute;
+    left: 140px;
+    top: 100px;
+}
+
+.grow_img{
+    display: inline;
+    float: right;
+}
+
+.grow_together{
+    width: 35%;
+    height: 35%;
+    float: right;
+}
+
+
+
+.flowing{
+    width: 65%;
+    align-items: center;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    position: absolute;
+    top: 1100px;
+    left: 280px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.flow_img{
+    position: absolute;
+    left: 140px;
+    top: 50px;    
+}
+
+.flowing_conversations{
+    width: 35%;
+    height: 35%;
+    
+}
+
+.flow_convo{
+    display: inline;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+}
+
+.user{
+    width: 65%;
+    align-items: center;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    position: absolute;
+    top: 1500px;
+    left: 280px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.yr_user{
+    position: absolute;
+    left: 140px;
+    top: 100px;
+}
+
+.user_img{
+    display: inline;
+    float: right;
+}
+
+.your_user{
+    width: 35%;
+    height: 35%;
+    float: right;
+}
+
+.down_button{
+    background-color: white;
+    position: relative;
+    top: 1300px;
+    width: 40%;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    left: 500px;
+    border-radius: 20px;
+    height: 200px;
+    align-items: center;
+    z-index: 9;
+}
+
+
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cta_down_buttons{
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-style: none;
+    width: 300px;
+    height: 60px;
+    border-radius: 30px;
+    margin-top: 10px;
+    position: absolute;
+    top: 50%;
+    left: 26%;
+}
+
+
+.footer{
+    background-color: rgb(7, 27, 58);
+    height: 600px;
+    position: relative;
+    top: 1200px;
+    
+   
+}
+
+.section_one{
+    color: white;
+    width: 75%;
+    height: 350px;
+    position: absolute;
+    top: 160px;
+    left: 200px;
+
+}
+
+.bottom_logo{
+    padding: 20px;
+  
+}
+
+.logo_down{
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
+    width: 15%;
+    height: 6%;
+}
+
+.icons{
+    padding: 12px;
+    display: inline;
+    line-height: 10px;
+    margin-top: 20px;
+}
+
+.about{
+    display: inline;
+    padding: 20px;
+    position: inherit;
+    top: 70px;
+
+}
+
+.phone{
+    display: inline;
+    padding: 20px;
+    position: inherit;
+    top: 155px;
+
+}
+
+.mail{
+    display: inline;
+    padding: 20px;
+    position: inherit;
+    top: 205px;
+
+}
+
+
+.section_two{
+    color: white;
+    height: 320px;
+    position: absolute;
+    top: 160px;
+    left: 700px;
+    padding: 20px;
+
+}
+
+.peru{
+    position: relative;
+    top: 100px;
+}
+
+.para{
+    position: relative;
+    top: 130px;
+}
+
+.jammin{
+    position: relative;
+    top: 160px;
+}
+
+.section_three{
+    color: white;
+    height: 320px;
+    position: absolute;
+    top: 160px;
+    left: 900px;
+    padding: 20px;
+
+}
+
+.car{
+    position: relative;
+    top: 100px;
+}
+
+.blo{
+    position: relative;
+    top: 130px;
+}
+
+.con{
+    position: relative;
+    top: 160px;
+}
+
+.section_four{
+    color: white;
+    height: 30px;
+    position: absolute;
+    top: 260px;
+    left: 1100px;
+    padding: 20px;
+
+}
+
+.copy{
+    color: white;
+    display: inline;
+    width: 40%;
+    height: 30px;
+    position: absolute;
+    top: 550px;
+    left: 220px;
+}
+
+.attrib{
+    display: inline;
+    float: right;
+    width: 40%;
+    height: 50px;
+    position: absolute;
+    top: 540px;
+    right: 180px;
+    
+}
